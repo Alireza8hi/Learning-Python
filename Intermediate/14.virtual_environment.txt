@@ -1,0 +1,12 @@
+why virtual environment ? when we want to have different packages and modules with different versions for different projects,
+we should have a virtual environment for every project.
+
+how to create and activate virtual environment?
+in cmd:
+python -m venv venv(virtual environment's name)
+cd venv(virtual environment's name)
+cd scripts
+activate
+
+how to use virtual environment in project?
+change interpreter to python.exe in virtual environment

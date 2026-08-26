@@ -1,0 +1,41 @@
+cmd:
+
+clear terminal?
+cls
+
+open?
+in search type "cmd" and enter
+
+commands:
+dir: show everything in our folder
+
+how can open folder?
+cd "folder's name"
+or
+cd "folder's name"/"folder's name"
+or
+cd "folder's name"/....../"folder's name"
+
+how can back a folder?
+cd ..
+
+how can back two folders?
+cd ../..
+
+how can back three folders?
+cd ../../..
+
+how can make new folder?
+mkdir "folder's name"
+
+complete your command? tab
+type your last commands? up&down
+
+how can change drive to d?
+d:
+
+how open python?
+python
+
+how close python?
+exit()
